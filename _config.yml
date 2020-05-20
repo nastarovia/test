@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vorágine Lab
+title: Test
 email: nastarovia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   laboratorio de edición digital. Aquí hacemos todo lo que se puede hacer en edición con herramientas libres y a veces con otras herramientas. Somos desprejuiciados y alegres hasta el hartazgo.
